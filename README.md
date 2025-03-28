@@ -105,11 +105,8 @@ To set up and use the database:
 4. Connect to the database using a PostgreSQL client to query and analyze the data.
 
 ## Contribution
-If you would like to contribute to this project, please fork the repository and submit a pull request with your changes. Ensure that your code follows the project's coding standards and includes appropriate tests.
+If you want to contribute to this project, please fork the repository and submit a pull request with your changes. Please make sure that your code follows the project's coding standards and includes appropriate tests.
 
 ## License
 This project is licensed under the MIT License.
-
----
-
-Feel free to customize this content based on your specific needs and preferences for the project.
+ project.
